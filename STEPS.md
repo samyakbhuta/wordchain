@@ -52,6 +52,15 @@ The output should be now ...
 	#	new file:   README.md
 	#	new file:   STEPS.md
 	#
+Still the changes are not commited. Those file which we just added are still in the 'stagin' area of git.To actually, commit we use the `git commit` command as follow.
+	git commit -m"Added files README.md and STEPS.md"
+You should get an output similar to this ..
+	 2 files changed, 86 insertions(+), 0 deletions(-)
+	 create mode 100644 README.md
+	 create mode 100644 STEPS.md
+Firing up `git status` would yield a different output, now.
+
+
 
 
 
