@@ -39,10 +39,15 @@ TODO: Have the code factored in way that such scoping criteria can be introduced
 	|-
 	|
 	|-range
-	     |-worldcities.range.wordchain.js
-	     |-movienames.range.wordchain.js
+	     |-worldCities.range.wordchain.js
+	     |-movieNames.range.wordchain.js
+	     |-onlyThreeLetters.range.wordchain.js	
+	     |-onlyIfItRhymesWithLastWord.range.wordchain.js	
 
+Displaying the meaning as well
+------------------------------
 
+While exchaning the words back and forth is good a game, it would be really nice, if for each word that get's into the game the meaning is also displayed. We have wonderful dict:// protocol that can be used to fetch the meaning of the words from varied sources.
 
 
 
