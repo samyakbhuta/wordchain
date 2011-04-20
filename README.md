@@ -4,13 +4,13 @@ A wordchain game using node.js.
 Simple two user game session would be something as follow.
 ----------------------------------------------------------
 
-User 1 : elephant
-User 2 : taiwan
-User 1 : nano
-User 2 : orange 
-User 1 : electron
-User 2 : noah
-User 1 : horse
+*User 1 : elephant
+*User 2 : taiwan
+*User 1 : nano
+*User 2 : orange 
+*User 1 : electron
+*User 2 : noah
+*User 1 : horse
 
 Who is a winner ?
 -----------------
