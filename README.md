@@ -29,7 +29,7 @@ In this case, word elephant would gain player 8 points, while word nano would ga
 #### Each letter in the word has weighted point units ####
 Here, each letter has it's own points, much like the game of Scrabble.
 	
-Wordchains games with ranged vocab 
+Wordchain games with ranged vocab 
 ----------------------------------
 Well, here the players agree to use the words only of certain type or from perticular domain. E.g. only the cities of the word.
 
