@@ -59,6 +59,11 @@ You should get an output similar to this ..
 	 create mode 100644 README.md
 	 create mode 100644 STEPS.md
 Firing up `git status` would yield a different output, now.
+	git status
+The output should be now ...
+	# On branch master
+	nothing to commit (working directory clean)
+
 
 
 
