@@ -36,9 +36,12 @@ Well, here the players agree to use the words only of certain type or from perti
 TODO: Have the code factored in way that such scoping criteria can be introduced as plugin. 
 
 	/
-	|-
-	|
-	|-range
+	|-app.js
+	|-README.md
+	/-test
+	/-doc
+	/-lib
+	/-range
 	     |-worldCities.range.wordchain.js
 	     |-movieNames.range.wordchain.js
 	     |-onlyThreeLetters.range.wordchain.js	
