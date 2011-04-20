@@ -1,0 +1,17 @@
+{
+  "name": "wordchain",
+  "description": "Node -> elegant -> tasty -> yetAnotherServerSideLanguage -> easy -> Yo !\u001b[D",
+  "version": "0.0.0-0-prealpha",
+  "homepage": "https://github.com/samyak",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samyakbhuta/wordchain.git"
+  },
+  "author": "Samyak Bhuta <samyak.bhuta@gmail.com> (in.linkedin.com/in/samyakbhuta)",
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": "*"
+  }
+}
