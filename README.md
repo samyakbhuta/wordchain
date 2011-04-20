@@ -29,9 +29,22 @@ In this case, word elephant would gain user 8 points, while word nano would gain
 #### Each letter in the word has weighted point units ####
 Here, each letter has it's own points, much like the game of Scrabble.
 	
+Wordchains games with ranged vocab 
+----------------------------------
+Well, here the players agreed to use the words only of certain type or from perticular domain. E.g. only the cities of the word.
+
+TODO: Have the code factored in way that such scoping criteria can be introduced as plugin. 
+
+	/
+	|-
+	|
+	|-range
+	     |-worldcities.range.wordchain.js
+	     |-movienames.range.wordchain.js
 
 
-Generally, longer the word more the score user has. 
+
+
 
 
 
