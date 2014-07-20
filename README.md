@@ -18,7 +18,7 @@ Who is a winner ?
 The player has to reply back to a challenge in certain time limit. e.g 45 sec. Failing to do so, the challenger is considered won.
 Note that, this is simplest of the criteria to determine the winner. The idea is, player who runs out of his personal vocabulary will loose.
 
-Now, consider that session has predefined time limit of 30 min. For that for a long time, both player are extraordinary in reply back to the challange. In that case the scoring has to be employed to determine the criteria.
+Now, consider that session has predefined time limit of 30 min. For that for a long time, both player are extraordinary in reply back to the challenge. In that case the scoring has to be employed to determine the criteria.
 
 ##Scoring##
 Many approaches could be considered where winner is determined by kind of words he brought to play.
@@ -46,7 +46,7 @@ TODO: Have the code factored in way that such scoping criteria can be introduced
 	     |-onlyThreeLetters.range.wordchain.js	
 	     |-onlyIfItRhymesWithLastWord.range.wordchain.js	
 
-Players can choose which domain they want to select at the begining of the game session.
+Players can choose which domain they want to select at the beginning of the game session.
 
 Displaying the meaning as well
 ------------------------------
